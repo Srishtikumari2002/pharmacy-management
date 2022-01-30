@@ -1,0 +1,16 @@
+Add Order Details
+_____________________________________
+**************************************************************************
+DRUGS ID    DRUGS TYPE   DRUGS NAME             DRUGS PRICE(INR)
+**************************************************************************
+   0001        OTC       Probiotics                 INR 2.00
+   0002        OTC       Vitamin C(500mg)           INR 3.00
+   0003        OTC       Acid Free C(500mg)         INR 1.00
+   0004        OTC       Women'S Multivate          INR 4.00
+   0005        OTC       Marino Tablet              INR 1.00
+   0006        OTC       Maxi Cal Tablet            INR 5.00
+   0007        OTC       Amino Zinc Tablet          INR 7.00
+   0008        OTC       Burnex	                    INR 4.00
+   0009        OTC       Fabuloss 5                 INR 3.00
+   0010        OTC       Royal Propollen            INR 5.00
+   
